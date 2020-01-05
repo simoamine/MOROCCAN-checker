@@ -8,6 +8,8 @@ Human vs computer
 if you have the posibiliter to attack it warn u to do it and this is for the begigner player 
 <img width="641" alt="checkers" src="https://user-images.githubusercontent.com/59539432/71785214-45a69d80-2ffd-11ea-84f0-402487c3deda.png">
 
+
+u will find the checker code on public/checker.
 ## Acknowledgments
 
 Thanks to [afeld](https://github.com/afeld) for his [emoji-css](https://github.com/afeld/emoji-css/)
